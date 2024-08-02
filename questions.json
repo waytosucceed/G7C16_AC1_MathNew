@@ -1,0 +1,32 @@
+[
+  {
+      "question": "From the given options below, find the exterior angle formed in the figure.",
+      "options": ["∠HFE", "∠EFC", "∠GFC", "∠FCB"],
+      "correct": 0,
+    "img": "./assests/images/1.jpg"
+  },
+  {
+      "question": "Identify the angle labelled as ∠A.",
+      "options": ["∠CTD", "∠BTC", "∠BTA", "∠ATD"],
+      "correct": 1,
+    "img": "./assests/images/2.jpg"
+  },
+  {
+      "question": "The highlighted lines represent which angle?",
+      "options": ["∠SOR", "∠ROS", "Both A and B", "∠POS"],
+      "correct": 2,
+    "img": "./assests/images/3.jpg"
+  },
+  {
+      "question": "In the figure, identify the interior angle from the given options.",
+      "options": ["∠ACD", "∠BCA", "∠EFH", "∠FCD"],
+      "correct": 3,
+    "img": "./assests/images/1.jpg"
+  },
+  {
+      "question": "Identify the name of the angle in the figure below.",
+      "options": ["∠MRO", "∠OMR", "∠RMO", "Both B and C"],
+      "correct": 3,
+    "img": "./assests/images/5.jpg"
+  }
+]
